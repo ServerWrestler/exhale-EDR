@@ -1,2 +1,4 @@
 # exhale-EDR
-A personal security agent for macOS. 
+A security agent for macOS.  Suitable for individuals and small teams.
+
+More information and alpha release coming shortly.
